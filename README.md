@@ -22,6 +22,9 @@ Detailed data extraction including:
 * Number of reviews
 
 ## Dataset Hasil Scraping
+  
+- **Buku Termurah:** £10.00  
+- **Buku Termahal:** £59.99
 
 Berikut adalah contoh tampilan **10 data pertama** dari hasil scraping website [Books to Scrape](https://books.toscrape.com/).
 
@@ -50,10 +53,6 @@ Setiap entri buku mencakup informasi lengkap seperti:
 - **Ketersediaan Stok & Jumlah Barang**  
 - **Deskripsi Buku Lengkap**  
 - **Jumlah Ulasan (Reviews)**  
-
-- **Total Buku Terdata:** 1000  
-- **Buku Termurah:** £10.00  
-- **Buku Termahal:** £59.99
   
 ## Top 10 Buku dengan Rating Tertinggi
 
